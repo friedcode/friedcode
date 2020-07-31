@@ -1,4 +1,4 @@
-![Hello there](giphy.gif)
+![Hello there](https://github.com/friedcode/friedcode/blob/master/giphy.gif)
 
 <!--
 **friedcode/friedcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
