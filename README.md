@@ -1,5 +1,7 @@
 ![Hello there](https://github.com/friedcode/friedcode/blob/master/giphy.gif)
 
+[![](https://raw.githubusercontent.com/friedcode/friedcode/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <!--
 **friedcode/friedcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
